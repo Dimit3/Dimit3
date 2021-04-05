@@ -49,7 +49,7 @@ Programmer at <a href="https://www.websystemssi.com/">Websystems - Soluções In
 <br />
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimit3&theme=dark&show_icons=true&locale=en&layout=compact" alt="dimit3" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dimit3&theme=dark&count_private=true&show_icons=true" alt="dimit3" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimit3&theme=dark&count_private=true&show_icons=true" alt="dimit3" width="50%"/>
   
  
 
