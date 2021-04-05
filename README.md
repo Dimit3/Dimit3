@@ -6,7 +6,7 @@
 <p>
 Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
 </br>
-Programmer at <a href="https://www.websystemssi.com/">Websystems - Soluções Informaticas </a>
+Software Developer at <a href="https://www.websystemssi.com/">Websystems - Soluções Informaticas </a>
 </p>
 
 <br/>
