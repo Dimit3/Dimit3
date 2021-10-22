@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/Dimit3?label=Follow&style=social)](https://github.com/Dimit3)
 <br />
 <p>
-Graduated at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
+Graduated in Computer Science at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
 </br>
 Software Developer at <a href="https://www.websystemssi.com/">Websystems - Soluções Informaticas </a>
 </p>
